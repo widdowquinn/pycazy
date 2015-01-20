@@ -1,0 +1,6 @@
+CAZY_HOME = "http://www.cazy.org"
+ENZYME_CLASSES = {'Glycoside Hydrolases': 'Glycoside-Hydrolases.html',
+	          'Glycoside Hydrolases': 'Glycoside-Hydrolases.html',
+		  'Glycoside Hydrolases': 'Glycoside-Hydrolases.html',
+		  'Glycoside Hydrolases': 'Glycoside-Hydrolases.html',
+	       }
